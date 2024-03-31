@@ -30,3 +30,14 @@ ERC404 is an innovative token standard that combines the best of both ERC20 and 
 - `images` - Static folder containing images used in the project.
 
 ## About the Developer 👩‍💻
+
+Hello there! I'm Mohammad Ayaan Siddiqui, a dedicated Full Stack Blockchain Developer and enthusiastic Crypto investor. My journey in the tech industry has been marked by a significant stint of 15 months with a Netherlands-based Web3 startup as a founding team member, where I contributed to innovative blockchain and full stack solutions.
+
+Over the past year and a half, I have successfully delivered a diverse range of freelance projects, showcasing my ability to meet and exceed client expectations. My commitment to excellence is demonstrated through consistent delivery of high-quality, efficient, and scalable decentralized applications.
+
+Let's connect and explore the possibilities of blockchain together:
+
+- [Linktree](https://linktr.ee/ayaaneth)
+- [LinkedIn](https://www.linkedin.com/in/ayaaneth)
+- [Hashnode](https://moayaan.hashnode.dev)
+- [Telegram](https://t.me/usdisshitcoin)
