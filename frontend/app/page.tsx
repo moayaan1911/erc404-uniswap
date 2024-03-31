@@ -221,13 +221,13 @@ export default function Home() {
             Uniswap Liquidity
           </li>
         </ul>
-        {/* <Image
+        <Image
           src={'/download.svg'}
           width={250}
           className='text-center flex justify-center items-center'
           height={200}
           alt='uniswap'
-        /> */}
+        />
       </section>
     </main>
   );
